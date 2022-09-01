@@ -4,8 +4,3 @@
 - 🌱 I’m currently learning openpyxl to create a tip for the world championship in fotball
 - 💞️ I’m looking to collaborate on game development in pygame
 - 📫 How to contact me: fredriknystroms@gmail.com
-
-<!---
-fredriknystrom/fredriknystrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
