@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredriknystrom
 - 👀 I’m interested in software development
 - 📙 I'm currently studying my third year at computer science program at Chalmers University of Technology in Gothenburg
-- 🌱 I’m currently learning openpyxl to create a tip for the world championship in fotball
+- 🌱 I’m currently learning openpyxl
 - 📫 How to contact me: fredriknystroms@gmail.com
