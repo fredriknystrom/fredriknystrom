@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @fredriknystrom
-- 👀 I’m interested in software development
-- 📙 I'm currently studying my third year at computer science program at Chalmers University of Technology in Gothenburg
-- 🌱 I’m currently learning openpyxl, html, css and javascript
+- 👀 I’m interested in full-stack development and machine learning
 - 📫 How to contact me: fredriknystroms@gmail.com
