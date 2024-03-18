@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fredriknystrom
-- 👀 I’m interested in full-stack development and machine learning
-- 📫 How to contact me: fredriknystroms@gmail.com
+- 👋 Hello I am Fredrik
+- 👀 I am interested in full-stack development and machine learning
+- 📫 Contact: fredriknystroms@gmail.com
