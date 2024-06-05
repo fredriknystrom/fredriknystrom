@@ -1,5 +1,5 @@
 - Hello my name is Fredrik
 - I am interested in full-stack development and machine learning
 - I have a bachelor's degree in Computer Science and Engineering and am currently pursuing a master's degree in Data Science and AI
-- Visit my website for a better overview of my project: https://www.fredriknystrom.tech/
-- 📫 Contact: fredriknystroms@gmail.com
+- Visit my website for a better overview of my projects: https://www.fredriknystrom.tech/
+- Contact me: fredriknystroms@gmail.com
